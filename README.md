@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Sirvisetti krishna Teja</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Govardhanarao Kotla</h1>
 
 <!--
 **krishnateja-81/krishnateja-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
