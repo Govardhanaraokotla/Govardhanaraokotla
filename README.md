@@ -10,8 +10,8 @@
 
 👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-🎓 I'm currently pursuing a Bachelor of Technology in Information Technology at NRI Institute of Technology, Agiripalli, Vijayawada.  
-🌱 I have experience in Data Science and AI/Cloud through internships and projects, focusing on practical applications like machine learning models, predictive analytics, and chatbot development.  
+🎓 I'm currently pursuing Bachelors in Information Technology at NRI Institute of Technology, Agiripalli, Vijayawada.  
+🌱 "I have a strong interest in Python development and am eager to advance my expertise in Data Science and Power BI."
 📫 Reach out to me via [LinkedIn](https://linkedin.com/in/govardhanarao-kotla) or [Email](mailto:govardhanaraokotla27@gmail.com).  
 
 ---
