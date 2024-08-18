@@ -17,7 +17,7 @@
 ---
 
 ### 🛠 Tech Stack
-
+<details>
 **Languages:**  
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat">&nbsp;
+</details>
 
 ---
 
