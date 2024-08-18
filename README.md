@@ -15,8 +15,8 @@
 📫 Reach out to me via [LinkedIn](https://linkedin.com/in/govardhanarao-kotla) or [Email](mailto:govardhanaraokotla27@gmail.com).  
 
 ---
-<details>
- 🛠 Tech Stack
+<details>	
+ <summary><b>🛠Tech Stack</b></summary><br>
 **Languages:**  
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
