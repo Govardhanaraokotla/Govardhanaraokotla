@@ -70,7 +70,7 @@
 </p>
 
 ---
-### Star ⭐ Some Of My Repositories for Future use 😉
+
 <details>	
  <summary><b>✨Projects&Activities</b></summary><br>
 
@@ -89,5 +89,5 @@
   <img src="https://komarev.com/ghpvc/?username=Govardhanaraokotla&style=flat-square" alt="Profile Views">
 </p>
 
-
+### Star ⭐ Some Of My Repositories for Future use 😉
 
