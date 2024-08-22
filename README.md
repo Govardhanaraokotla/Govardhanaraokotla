@@ -70,7 +70,8 @@
 
 ---
 
-### 📚 Recent Projects
+<details>	
+ <summary><b>📊Projects&Activities</b></summary><br>
 
 ✨ License Plate Detection<br>
 ✨ Election Ad Spending Analytics<br>
@@ -81,7 +82,7 @@
 ✨ Housing Price regression_model<br>
 ✨ Car Price predictor<br>
 
-
+</details>
 ---
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Govardhanaraokotla&style=flat-square" alt="Profile Views">
