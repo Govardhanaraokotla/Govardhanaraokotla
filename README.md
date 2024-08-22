@@ -8,8 +8,8 @@
 
 ---
 
-👨🏻‍💻 **About Me****<img src="https://raw.githubusercontent.com/Govardhanaraokotla/Govardhanaraokotla/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-🎓 I'm a B.Tech student in Information Technology at NRI Institute of Technology.<br>
+👨🏻‍💻 **About Me****<img src="https://raw.githubusercontent.com/Govardhanaraokotla/Govardhanaraokotla/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+ 🎓 I'm a B.Tech student in Information Technology at NRI Institute of Technology.<br>
 💻 Passionate about Data Science, Python Development, and exploring new technologies.<br>
 🌱 Currently focusing on enhancing my skills in Data Analytics and Machine Learning.<br>
 📈 I love working on projects related to data analysis, visualization, and web development.<br>
