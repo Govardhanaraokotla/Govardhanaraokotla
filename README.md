@@ -71,9 +71,14 @@
 
 ### 📚 Recent Projects
 
-✨ [License Plate Detection](https://github.com/Govardhanaraokotla/License-Plate-Detection)<br>
-✨ [Election Ad Spending Analytics](https://github.com/Govardhanaraokotla/Election-Ad-Spending)<br>
+✨ [License Plate Detection]<br>
+✨ [Election Ad Spending Analytics]<br>
 
 ---
+<p align="left">
+  <a href="https://github.com/Govardhanaraokotla">
+    <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />
+  </a>&nbsp;&nbsp;
+</p>
 
 #### Show some ❤️ by starring some of the repositories!
