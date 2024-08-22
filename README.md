@@ -51,12 +51,12 @@
 </details>
 
 ---
-
+<details>
 ### 📚 Recent Projects
 
 - **License Plate Detector:** Developed a license plate detection program using Python with OpenCV for image processing and pytesseract for text extraction.  
 - **Election AD Spending Analytics:** Analyzed and visualized ad spending by political parties during the 2024 Indian Elections using Python and Power BI.
-
+</details>
 ---
 
 ### ⚙️ GitHub Analytics
