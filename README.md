@@ -72,8 +72,15 @@
 
 ### 📚 Recent Projects
 
-✨ [License Plate Detection]<br>
-✨ [Election Ad Spending Analytics]<br>
+✨ License Plate Detection<br>
+✨ Election Ad Spending Analytics<br>
+✨ Cat&Dog image classifier<br>
+✨ SpamMessage classifier<br>
+✨ College ChatBot using IBM CLOUD<br>
+✨ ATM Interface<br>
+✨ Housing Price regression_model<br>
+✨ Car Price predictor<br>
+
 
 ---
 <p align="left">
