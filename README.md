@@ -9,6 +9,7 @@
 ---
 
 👨🏻‍💻 **About Me****
+
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 🎓 Persuing Bachelors in Information Technology.<br>
 💻 Passionate about Java,Python and DataScience.<br>
@@ -71,16 +72,16 @@
 ---
 
 <details>	
- <summary><b>📊Projects&Activities</b></summary><br>
+ <summary><b>✨Projects&Activities</b></summary><br>
 
-✨ License Plate Detection<br>
-✨ Election Ad Spending Analytics<br>
-✨ Cat&Dog image classifier<br>
-✨ SpamMessage classifier<br>
-✨ College ChatBot using IBM CLOUD<br>
-✨ ATM Interface<br>
-✨ Housing Price regression_model<br>
-✨ Car Price predictor<br>
+🛠️ License Plate Detection<br>
+🔍 Election Ad Spending Analytics<br>
+📊 Cat&Dog image classifier<br>
+💻 SpamMessage classifier<br>
+🚀 College ChatBot using IBM CLOUD<br>
+🧠  ATM Interface<br>
+📝Housing Price regression_model<br>
+📈 Car Price predictor<br>
 
 </details>
 ---
