@@ -78,7 +78,7 @@
 <p align="left">
   <a href="https://github.com/Govardhanaraokotla">
     <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 #### Show some ❤️ by starring some of the repositories!
