@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/govardhanaraokotla/">LinkedIn</a> -
   <a href="mailto:govardhanaraokotla@gmail.com">Email</a> -
-  <a href="https://github.com/GovardhanaraoKotla">GitHub</a>
+  <a href="https://github.com/Govardhanarao-Kotla">GitHub</a>
 </p> 
 
 ---
@@ -74,10 +74,7 @@
 - 🗳️ [Election Ad Spending Analytics](https://github.com/Govardhanarao-Kotla/Election-Ad-Spending-Analytics)
 - 🤖 [College Admission Chatbot](https://github.com/Govardhanarao-Kotla/College-Admission-Chatbot)
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/GovardhanaraoKotla/Election-Ad-Spending-Analytics/pull/3) in [GovardhanaraoKotla/Election-Ad-Spending-Analytics](https://github.com/GovardhanaraoKotla/Election-Ad-Spending-Analytics)
-2. 💪 Opened PR [#3](https://github.com/GovardhanaraoKotla/Election-Ad-Spending-Analytics/pull/3) in [GovardhanaraoKotla/Election-Ad-Spending-Analytics](https://github.com/GovardhanaraoKotla/Election-Ad-Spending-Analytics)
-<!--END_SECTION:activity-->
+
 
 </details>
 
