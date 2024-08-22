@@ -15,6 +15,7 @@
 📫 Reach out to me via [LinkedIn](https://linkedin.com/in/govardhanarao-kotla) or [Email](mailto:govardhanaraokotla27@gmail.com).  
 
 ---
+<!--- 1st section on my tech stack--->
 <details>	
  <summary><b>🛠Tech Stack</b></summary><br>
 
@@ -51,6 +52,7 @@
 </details>
 
 ---
+<!---2nd section on my Projects & activity-->
 <details>	
  <summary><b>📚 Recent Projects/Activity</b></summary><br>
 
@@ -59,13 +61,18 @@
 - **Election AD Spending Analytics:** Analyzed and visualized ad spending by political parties during the 2024 Indian Elections using Python and Power BI.
   </details>
 ---
-
+<!---3rd section on my Github Analytics-->
 ### ⚙️ GitHub Analytics
 
+<summary><b>⚙️GitHub Analytics</b></summary>
 <a href="https://github.com/Govardhanaraokotla">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Govardhanaraokotla&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Govardhanarao Kotla GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govardhanaraokotla&layout=compact&langs_count=10&theme=dark" alt="Govardhanarao Kotla top languages" />
-</a>
+   <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Govardhanaraokotla github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Govardhanaraokotla github stats" />
+ <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Govardhanaraokotla github stats" />
+  <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Govardhanaraokotla github stats" />
+   <img height="160em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
+     
+
 
 ---
 
