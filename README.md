@@ -8,11 +8,12 @@
 
 ---
 
-👨🏻‍💻 **About Me****<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
- 🎓 I'm a B.Tech student in Information Technology at NRI Institute of Technology.<br>
-💻 Passionate about Data Science, Python Development, and exploring new technologies.<br>
+👨🏻‍💻 **About Me****
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+🎓 Persuing Bachelors in Information Technology.<br>
+💻 Passionate about Java,Python and DataScience.<br>
 🌱 Currently focusing on enhancing my skills in Data Analytics and Machine Learning.<br>
-📈 I love working on projects related to data analysis, visualization, and web development.<br>
+📈 Intrested to working on Data Analytics and Visualization projects, turning data into captivating insights and impactful visuals.<br>
 
 ---
 
@@ -76,9 +77,8 @@
 
 ---
 <p align="left">
-  <a href="https://github.com/Govardhanaraokotla">
-    <img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Govardhanaraokotla&style=flat-square" alt="Profile Views">
 </p>
+
 
 #### Show some ❤️ by starring some of the repositories!
