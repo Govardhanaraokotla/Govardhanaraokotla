@@ -8,7 +8,7 @@
 
 ---
 
-👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/govardhanarao-kotla/govardhanarao-kotla/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/govardhanaraokotla/govardhanaraokotla/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Aspiring Data Scientist & Full Stack Developer<br>
 🌱 Currently pursuing B.Tech in Information Technology from NRI Institute of Technology, Vijayawada<br>
 🚀 Passionate about AI, Machine Learning, Data Science, and Cloud Computing<br>
@@ -49,8 +49,8 @@
 
 <details>	
   <summary><b>⚙️ GitHub Analytics</b></summary>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=govardhanarao-kotla&show_icons=true&theme=dark" alt="Govardhanarao Kotla's GitHub stats" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govardhanarao-kotla&layout=compact&theme=dark" alt="Govardhanarao Kotla's Top Languages" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=govardhanaraokotla&show_icons=true&theme=dark" alt="Govardhanarao Kotla's GitHub stats" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govardhanaraokotla&layout=compact&theme=dark" alt="Govardhanarao Kotla's Top Languages" />
 </details>
 
 ---
