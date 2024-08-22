@@ -70,7 +70,7 @@
 </p>
 
 ---
-
+### Star ⭐ Some Of My Repositories for Future use 😉
 <details>	
  <summary><b>✨Projects&Activities</b></summary><br>
 
@@ -90,4 +90,4 @@
 </p>
 
 
-#### Show some ❤️ by starring some of the repositories!
+
