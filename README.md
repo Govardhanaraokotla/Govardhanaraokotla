@@ -10,14 +10,14 @@
 
 👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-🎓 I'm currently pursuing Bachelors in Information Technology at NRI Institute of Technology, Agiripalli, Vijayawada.  
-🌱 "I have a strong interest in Python development and am eager to advance my expertise in Data Science and Power BI."
+🎓 I'm currently pursuing a Bachelor's in Information Technology at NRI Institute of Technology, Agiripalli, Vijayawada.  
+🌱 I have a strong interest in Python development and am eager to advance my expertise in Data Science and Power BI.  
 📫 Reach out to me via [LinkedIn](https://linkedin.com/in/govardhanarao-kotla) or [Email](mailto:govardhanaraokotla27@gmail.com).  
 
 ---
-<!--- 1st section on my tech stack--->
+
 <details>	
- <summary><b>🛠Tech Stack</b></summary><br>
+ <summary><b>🛠 Tech Stack</b></summary><br>
 
 **Languages:**  
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">&nbsp;
@@ -26,14 +26,12 @@
 <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat">&nbsp;
 
-
 **Developer Tools:**  
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">&nbsp;
-
 
 **Libraries:**  
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
@@ -52,27 +50,26 @@
 </details>
 
 ---
-<!---2nd section on my Projects & activity-->
+
 <details>	
  <summary><b>📚 Recent Projects/Activity</b></summary><br>
 
-
 - **License Plate Detector:** Developed a license plate detection program using Python with OpenCV for image processing and pytesseract for text extraction.  
 - **Election AD Spending Analytics:** Analyzed and visualized ad spending by political parties during the 2024 Indian Elections using Python and Power BI.
-  </details>
+</details>
+
 ---
-<!---3rd section on my Github Analytics-->
+
 ### ⚙️ GitHub Analytics
 
-<summary><b>⚙️GitHub Analytics</b></summary>
+<summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/Govardhanaraokotla">
    <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Govardhanaraokotla github stats" />
    <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Govardhanaraokotla github stats" />
- <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Govardhanaraokotla github stats" />
-  <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Govardhanaraokotla github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Govardhanaraokotla github stats" />
+   <img height="155em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Govardhanaraokotla github stats" />
    <img height="160em" src="https://raw.githubusercontent.com/Govardhanaraokotla/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
-     
-
+</a>
 
 ---
 
@@ -83,3 +80,7 @@
   <a href="https://linkedin.com/in/govardhanarao-kotla"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat"></a>
   <a href="mailto:govardhanaraokotla27@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat"></a>
 </p>
+
+---
+
+#### Show some ❤️ by starring some of the repositories!
