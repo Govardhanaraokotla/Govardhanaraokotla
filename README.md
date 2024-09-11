@@ -10,7 +10,7 @@
 
 👨🏻‍💻 **About Me****
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="left"> 
 🎓 Persuing Bachelors in Information Technology.<br>
 💻 Passionate about Java,Python and DataScience.<br>
 🌱 Currently focusing on enhancing my skills in Data Analytics and Machine Learning.<br>
